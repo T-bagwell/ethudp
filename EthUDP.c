@@ -36,7 +36,7 @@ Note:
 */	
 
 // uncomment the following line to enable automatic tcp mss fix
-//#define FIXMSS   1
+#define FIXMSS   1
 
 // comment the following line to disable DEBUG
 //#define DEBUG		1
